@@ -1,9 +1,3 @@
-/*******************************************************************************
-* RoboCore Kit Iniciante V8 para Arduino - 22. Dado Viciado
-* Sorteia e exibe valores de 1 a 6 no display de 7 segmentos,
-*   tendendo a um número fixo na maioria das vezes
-*******************************************************************************/
-
 //Pinos responsáveis pelo código BCD
 const int pino_a = 12;
 const int pino_b = 9;

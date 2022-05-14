@@ -1,8 +1,3 @@
-/*******************************************************************************
-  RoboCore Kit Iniciante V8 - 26. Projeto Garra Robótica
-  Controla a garra robótica com o joystick
-*******************************************************************************/
-
 #include <Servo.h> //Inclui biblioteca para servo motor
 
 const int SW = 2; // Pino para o botão do joystick

@@ -1,7 +1,3 @@
-/*******************************************************************************
-* RoboCore Kit Iniciante V8 para Arduino - 22. Projeto Dado Eletrônico
-* Sorteia e exibe valores de 1 a 8 no display de 7 segmentos
-*******************************************************************************/
 //Pinos responsáveis pelo código BCD
 const int pino_a = 12;
 const int pino_b = 9;

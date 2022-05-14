@@ -1,8 +1,3 @@
-/*******************************************************************************
-* RoboCore Kit Iniciante V8 - Trabalhando com Gráficos 1
-* Imprime na Serial o valor de tensão na saída do potenciômetro.
-*******************************************************************************/
-
 const int pinoPotenciometro = A0; // pino onde o potenciometro está conectado
 int leitura = 0; // variável para armazenar o valor lido pelo ADC
 float tensao = 0.0; // variável para armazenar a tensão
